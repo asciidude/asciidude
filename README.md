@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello!
+I'm thread90. Whats up?
+
+_Currently, I am working on slash.js_
 
 <!--
 **thread90/thread90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
