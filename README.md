@@ -1,5 +1,5 @@
 ### Hello!
-⚡ I'm thread90. Fun fact! I'm bad at coding :) LOL!
+⚡ I'm thread90, better known as pxpcandy. Fun fact! I'm bad at coding :) LOL!
 
 📫 How to reach me: You can reach me on my Discord server or through email: https://discord.gg/wSgMWdv / zusk@rigidnetwork.com
 
