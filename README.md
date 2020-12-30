@@ -1,7 +1,7 @@
 ### Hello!
-⚡ I'm thread90, better known as pxpcandy. Fun fact! I'm bad at coding :) LOL!
+⚡ I'm thread90, better known as pxpcandy.
 
-📫 How to reach me: You can reach me on my Discord server or through email: https://discord.gg/wSgMWdv / zusk@rigidnetwork.com
+📫 How to reach me: You can reach me on my Discord server or through email: https://discord.gg/tJfRDpt / zusk@rigidnetwork.com
 
 <!--
 **thread90/thread90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
