@@ -3,6 +3,9 @@
 
 📫 How to reach me: You can reach me on my Discord server or through email: https://discord.gg/tJfRDpt / zusk@rigidnetwork.com
 
+### My stats :o
+[![thread90's GitHub stats](https://github-readme-stats.vercel.app/api?username=thread90)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **thread90/thread90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
