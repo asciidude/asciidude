@@ -1,22 +1,7 @@
-### Hello!
-⚡ I'm thread90, better known as pxpcandy.
+# 👋 Hey!
+⚡ Hello! I'm pxpcandy
 
-📫 How to reach me: You can reach me on my Discord server or through email: https://discord.gg/tJfRDpt / zusk@rigidnetwork.com
+📫 How to reach me: I am sadly unavaliable for contact at the moment, unless you have a job for me. pxpcandy#4415
 
-### My stats :o
-[![thread90's GitHub stats](https://github-readme-stats.vercel.app/api?username=thread90)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-**thread90/thread90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📈 Statistics
+[![pxpcandy's GitHub stats](https://github-readme-stats.vercel.app/api?username=pxpcandy)](https://github.com/anuraghazra/github-readme-stats)
