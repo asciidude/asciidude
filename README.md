@@ -25,6 +25,7 @@
   ## 💬 Get in contact with me
   [<img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white&labelColor=black" />](https://github.com/asciidude)
   [<img alt="Email" src="https://img.shields.io/badge/Email%20Me-%2312100E.svg?&style=for-the-badge&logo=Gmail&logoColor=red&labelColor=white" />](mailto://asciidude0@gmail.com)
+  [<img alt="Email" src="https://img.shields.io/badge/Discord-%235738D2.svg?&style=for-the-badge&logo=Discord&logoColor=white" />](mailto://asciidude0@gmail.com)
   
   ---
   <p align="center">© asciidude, made with ❤️</p>
