@@ -5,10 +5,10 @@
     <p>Here you'll find any projects I'm working on. :)</p>
     <hr>
     <h2>Basic Info</p>
-    <ul>
+</div>
+<ul>
         <li>19 years old</li>
         <li>Pronouns: she/her (primary), he/him</li>
         <li>Discord: asciidude</li>
         <li>Email: asciidude0@gmail.com<li>
     </ul>
-</div>
