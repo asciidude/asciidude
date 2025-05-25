@@ -7,8 +7,8 @@
     <h2>Basic Info</p>
 </div>
 <ul>
-        <li>19 years old</li>
-        <li>Pronouns: she/her (primary), he/him</li>
-        <li>Discord: asciidude</li>
-        <li>Email: asciidude0@gmail.com<li>
-    </ul>
+    <li>19 years old</li>
+    <li>Pronouns: she/her (primary), he/him</li>
+    <li>Discord: asciidude</li>
+    <li>Email: asciidude0@gmail.com<li>
+</ul>
