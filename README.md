@@ -6,9 +6,7 @@
     <hr>
     <h2>Basic Info</p>
 </div>
-<ul>
-    <li>19 years old</li>
-    <li>Pronouns: she/her (primary), he/him</li>
-    <li>Discord: asciidude</li>
-    <li>Email: asciidude0@gmail.com<li>
-</ul>
+- 19 years old
+- Pronouns: she/her (primary), he/him
+- Discord: asciidude
+- Email: [mailto:asciidude0@gmail.com](asciidude0@gmail.com)
