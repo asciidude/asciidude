@@ -6,6 +6,7 @@
     <hr>
     <h2>Basic Info</p>
 </div>
+
 - 19 years old
 - Pronouns: she/her (primary), he/him
 - Discord: asciidude
