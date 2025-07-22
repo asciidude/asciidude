@@ -8,6 +8,5 @@
 </div>
 
 - 19 years old
-- Pronouns: she/her (primary), he/him
 - Discord: asciidude
 - Email: asciidude0@gmail.com
